@@ -7,22 +7,23 @@
 .titulo{
     text-align: center;
     font-family: 'Indie Flower', cursive;
-    font-size: 6em;
+    font-size: 10em;
     display: inline-block;
     background-color: white;
     margin: auto;
-    font-size: 4vw;
+    font-size: 13vw;
 
 }
 .titulo2{
     text-align: center;
     font-family: 'Love Ya Like A Sister', cursive;
-    font-size: 3vw;
+    font-size: 11vw;
 }
 .img{
     padding: 3px;
     margin: auto;
     width: 80%;
+    height: 50%;
     border-radius: 5%;
     display: flex;
     justify-content: center;

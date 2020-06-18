@@ -1,0 +1,46 @@
+.centrar:{
+    width: 100%;
+    height: 20%;
+    color: brown;
+
+}
+.titulo{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 6em;
+    display: inline-block;
+    background-color: white;
+    margin: auto;
+
+}
+.titulo2{
+    text-align: center;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 3em;
+}
+.img{
+    padding: 3px;
+    margin: auto;
+    width: 80%;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+   
+}
+body{
+    background-image: url("https://previews.123rf.com/images/elinorka/elinorka1608/elinorka160800390/62554821-de-fondo-sin-fisuras-patr%C3%B3n-de-alfabeto-en-colores-brillantes-ilustraci%C3%B3n-del-vector-con-las-letras-ingles.jpg") ;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    color: black;
+}
+.contenedorLetras{
+    width:auto;
+    background-color: white;
+}
+.contenedorLetras2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
